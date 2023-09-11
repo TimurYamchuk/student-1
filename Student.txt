@@ -1,0 +1,5 @@
+Student("Anna", "Smith", 25000, "123-456-789");
+Student("David", "Johnson", 30000, "234-567-890");
+Student("Emily", "Brown", 28000, "345-678-901");
+Student("James", "Davis", 27000, "456-789-012");
+Student("Olivia", "Jones", 26000, "567-890-123");
